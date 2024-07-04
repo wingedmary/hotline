@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5992ae9c.css",
+    "main.js": "/static/js/main.9da730c1.js",
+    "static/media/darkRichard.png": "/static/media/darkRichard.b59a824c1eac7c76a61a.png",
+    "static/media/ted.png": "/static/media/ted.b1a2fdcfdd385db483fa.png",
+    "static/media/graham.png": "/static/media/graham.82267a60344af48d727a.png",
+    "static/media/dennis.png": "/static/media/dennis.bcb4e5cabe692214196a.png",
+    "static/media/bg.jpg": "/static/media/bg.ad5ade268c01fa105fc3.jpg",
+    "static/media/hm1.png": "/static/media/hm1.5654fcd931d3f4e0dd94.png",
+    "static/media/hm2.png": "/static/media/hm2.61e470f19a86a1150358.png",
+    "static/media/bg-hard.jpg": "/static/media/bg-hard.d51da33dbb8fa81cd7ce.jpg",
+    "static/media/Quinquefive.ttf": "/static/media/Quinquefive.cde8ea1373ef9ac9f435.ttf",
+    "index.html": "/index.html",
+    "main.5992ae9c.css.map": "/static/css/main.5992ae9c.css.map",
+    "main.9da730c1.js.map": "/static/js/main.9da730c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5992ae9c.css",
+    "static/js/main.9da730c1.js"
+  ]
+}
